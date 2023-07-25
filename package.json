@@ -1,0 +1,22 @@
+{
+  "name": "seokbangguri",
+  "version": "1.0.0",
+  "description": "Seokjin Hong personal homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seokbangguri/homepage.git"
+  },
+  "author": "seokbangguri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seokbangguri/homepage/issues"
+  },
+  "homepage": "https://github.com/seokbangguri/homepage#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
